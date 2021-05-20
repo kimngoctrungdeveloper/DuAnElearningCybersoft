@@ -1,0 +1,5 @@
+export const IDOFREGISCOURSE = "ID_OF_REGIS_COURSE";
+export const getAPICourseAction = "get_API_CourseAction";
+export const IDGOURPOFCOURSE = "ID_GOURP_OF_COURSE";
+export const CANCELPOFCOURSEUPDATE = "CANCEL_GOURP_OF_COURSE_UPDATE";
+export const LISTCOURSEREGISTED = "LIST_COURSE_REGISTED";
